@@ -7,13 +7,10 @@
   Repository Link: https://github.com/ayushsharma82/AsyncElegantOTA
 */
 
-#if defined(ESP8266)
-  #include <ESP8266WiFi.h>
-  #include <ESPAsyncTCP.h>
-#elif defined(ESP32)
-  #include <WiFi.h>
-  #include <AsyncTCP.h>
-#endif
+
+#include <WiFi.h>
+#include <AsyncTCP.h>
+
 
 #include <ESPAsyncWebServer.h>
 #include <AsyncElegantOTA.h>
