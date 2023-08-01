@@ -3,7 +3,7 @@ name: Bug Report
 about: Create a report to help us improve AsyncElegantOTA
 title: "[BUG] "
 labels: bug
-assignees: ayushsharma82
+assignees: hakuamesan
 
 ---
 
@@ -24,9 +24,9 @@ A clear and concise description of what the bug is.
 
 **Microcontroller Specs:**
  - Board: [ Your Dev kit/Board Name ]
- - Microcontroller:  [ ESP32 or ESP8266 ]
+ - Microcontroller:  [ ESP32 ]
  - Did you modify the partition table? [Yes/No]
- - Browser: [chrome/safari/edge/opera]
+ - Browser: [chrome/safari/edge/opera/others]
  - Library Version: [latest]
 
 
