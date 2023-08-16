@@ -58,3 +58,5 @@ dkms.conf
 
 platformio.ini
 src/main.cpp
+node_modules/
+logs/
